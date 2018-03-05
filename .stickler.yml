@@ -1,7 +1,10 @@
 linters:
   flake8:
-    fixer: true
+    exclude: '.tox,.git,*/migrations/*,*/static/CACHE/*,docs,node_modules'
+    max-line-length: 120
   csslint: {  }
+  eslint:
+    config: './.eslintrc.yml'
   shellcheck:
     shell: bash
 files:
@@ -9,4 +12,4 @@ files:
     - 'bower_components/*'
     - 'node_modules/*'
 fixers:
-  enable: true
+  enable: false
