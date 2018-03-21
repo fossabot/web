@@ -13,6 +13,7 @@ Gitcoin Grows Open Source. Learn more at [https://gitcoin.co](https://gitcoin.co
 [![Build Status](https://travis-ci.org/gitcoinco/web.svg?branch=master)](https://travis-ci.org/gitcoinco/web)
 [![codecov](https://codecov.io/gh/gitcoinco/web/branch/master/graph/badge.svg)](https://codecov.io/gh/gitcoinco/web)
 [![Waffle.io - Columns and their card count](https://badge.waffle.io/gitcoinco/web.svg?columns=all)](https://waffle.io/gitcoinco/web)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmbeacom%2Fweb.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmbeacom%2Fweb?ref=badge_shield)
 
 This is the website that is live at gitcoin.co
 
@@ -102,6 +103,9 @@ Have an ERC20 compatible token that you'ud like to add support for?  Great!
     along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 '''
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmbeacom%2Fweb.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmbeacom%2Fweb?ref=badge_large)
 
 # License
 
